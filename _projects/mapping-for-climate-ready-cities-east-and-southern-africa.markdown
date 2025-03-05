@@ -6,13 +6,22 @@ Project Summary Text: |-
 
 
   This project page highlights our work in East and Southern Africa.
-Feature Image: "/uploads/Field%20Mapping%20Leader,%20Dayan%20Amandu%20Ogunu%20illustrating%20to%20participants%20how%20to%20use%20ODK%20for%20field%20data%20collection.JPG"
+Feature Image: https://cdn.hotosm.org/website/Field+Mapping+Leader,+Dayan+Amandu+Ogunu+illustrating+to+participants+how+to+use+ODK+for+field+data+collection.JPG
 Country:
 - Kenya
 - Ethiopia
 - Democratic Republic of the Congo
 Impact Area:
 - Sustainable Cities & Communities
+Partner:
+- OSM Kenya
+- SDI
+- Nakuru City Council
+- Nairobi County
+- OSM Ethiopia
+- OSM DRC
+- iMMAP Ethiopia
+- Terra Firma
 Tools:
 - tool: Tasking Manager
   link: 
@@ -37,6 +46,9 @@ Partners:
 - Nairobi County
 - OSM Ethiopia
 - OSM DRC
+- 'IMMAP Ethiopia '
+- Terra Firma
+- 
 ---
 
 ## Summary
@@ -49,7 +61,7 @@ In Addis Ababa, Ethiopia, as urbanization continues, there is a continued reduct
 
 In the city of Nakuru, Kenya, similar to Addis Ababa, the Nakuru City Council is looking to develop and implement a city-wide mobility plan that will help support the increasing population size and create a city-wide flood resilient/sponge city plan. 
 
-Nairobi, Kenya, is also experiencing significant population growth, including within informal settlements. According to the county government and local implementing organizations, informal settlements tend to be less developed with critical infrastructure and services due to their unplanned nature. This makes access to critical services like health and education very expensive or non-existent in these areas. Together with the Nairobi County government, the team looks to tackle the inadequate service delivery in informal settlements in the city, which this program will support.
+Nairobi, Kenya, is also experiencing significant population growth, including within informal settlements, which face flooding risks. According to the county government and local implementing organizations, informal settlements tend to be less developed with critical infrastructure and services due to their unplanned nature. This makes access to critical services like health and education very expensive or non-existent in these areas. Together with the Nairobi County government, the team looks to tackle the inadequate service delivery in informal settlements in the city, which this program will support.
 
 ## Approach
 

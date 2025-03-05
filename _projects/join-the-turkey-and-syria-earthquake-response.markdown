@@ -1,6 +1,7 @@
 ---
 title: HOT's Response to the Turkey & Syria Earthquake
 date: 2023-02-22 12:33:00 Z
+published: false
 Project Summary Text: How HOT is responding to the tragic February 2023 earthquake
   in Turkey and Syria, how to get data, and how that data is being used.
 Feature Image: https://cdn.hotosm.org/website/Turkey+Syria+Map+for+Homepage+B-69e708.png
@@ -20,6 +21,7 @@ Partner:
 - Yer Çizenler
 Duration:
   Start Date: 2023-02-07 00:00:00 Z
+  End Date: 2023-06-30 00:00:00 Z
 tm_campaigns:
 - https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023
 Data:
@@ -35,6 +37,7 @@ Tools:
 - tool: Wiki
   link: https://wiki.openstreetmap.org/wiki/2023_Turkey_Earthquakes
 - Contact: disasterservices@hotosm.org
+Highlight: Disasters & Climate Resilience
 layout: project-item
 ---
 
@@ -64,4 +67,4 @@ And we have shared numerous other use cases via our blog and OSM diaries:
 * [Using OSM Data in the Turkey and Syria Earthquake Response](https://www.hotosm.org/updates/using-osm-data-for-the-turkey-and-syria-earthquake-response/)
 * [OpenStreetMap data in action: earthquake response](https://www.openstreetmap.org/user/pedrito1414/diary/401009)
 
-![Turkey Syria Activations March 30.png](/uploads/Turkey%20Syria%20Activations%20March%2030.png)
+![Turkey Syria Activations March 30.png](https://cdn.hotosm.org/website/Turkey+Syria+Activations+March+30.png)

@@ -1,0 +1,187 @@
+---
+title: Affected Buildings of Afghanistan in June 2022
+date: 2022-07-01 06:11:00 Z
+published: false
+Glide: EQ-2022-000232-AFG
+Event Name: M 5.9 in Afghanistan on 21 Jun 2022
+Country:
+- Afghanistan
+- Pakistan
+Event type: EQ Earthquake
+Summary Text: The following map is an analysis to estimatimate the number of structures
+  affected using OSM data and <a href="http://inasafe.org/" target="_blank">InaSafe</a>.
+Feature Image: EQ-2022-000232-AFG-media-03
+Status: alert
+Post-type: Media
+Visuals:
+- EQ-2022-000232-AFG-media-02
+---
+
+"InaSAFE is free software that produces realistic natural hazard impact scenarios for better planning, preparedness and response activities." It can be used in conjunction with OSM data, to estimate affected elements <sup><a href="#fn1" id="ref1">1</a></sup> in a selected area using OSM data or other datasets.
+<br>
+<br>
+<h2>Estimated number of structures affected per MMI intensity</h2>
+
+<b>Hazard source</b>: Shaking Intensity Area - USGS -<br>
+<b>Exposure source</b>: Building - OpenStreetMap -<br>
+<b>Aggregation source</b>: District Affected - source not available -<br>
+<b>Impact Function</b>: Earthquake Polygon On Structures Polygon<br>
+
+<table border="0" cellspacing="0"><colgroup width="119"></colgroup> <colgroup width="213"></colgroup> <colgroup width="258"></colgroup>
+<tbody>
+<tr>
+<td align="center" valign="bottom" height="19" bgcolor="#FFE699"><strong><span style="color: #000000;">MMI</span></strong></td>
+<td align="center" valign="bottom" bgcolor="#FFE699"><strong><span style="color: #000000;">Shake Intensity</span></strong></td>
+<td align="center" valign="bottom" bgcolor="#FFE699"><strong><span style="color: #000000;">Number of Affected Buildings</span></strong></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#00C6B5" height="19"><span style="color: #000000;">IV</span></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF"><span style="color: #000000;">Light</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">26,800</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#00A600" height="19"><span style="color: #000000;">V</span></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF"><span style="color: #000000;">Moderate</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">2,700</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFF701" height="19"><span style="color: #000000;">VI</span></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF"><span style="color: #000000;">Strong</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">4,300</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FF8D01" height="19"><span style="color: #000000;">VIII</span></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF"><span style="color: #000000;">Severe</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">11,800</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FF0101" height="19"><span style="color: #000000;">IX</span></td>
+<td align="left" valign="bottom" bgcolor="#FFFFFF"><span style="color: #000000;">Violent</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">1,200</span></em></td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="bottom" bgcolor="#FFE699" height="19"><strong><span style="color: #000000;">Total</span></strong></td>
+<td align="right" valign="bottom" bgcolor="#FFE699"><span style="color: #000000;">46,800</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+
+ <br>
+
+<h2>Estimated number of structures affected per district.<sup><a href="#fn2" id="ref2">2</a></sup></h2>
+<br>
+<table border="0" cellspacing="0"><colgroup width="119"></colgroup> <colgroup width="213"></colgroup>
+<tbody>
+<tr>
+<td align="center" valign="bottom" bgcolor="#FFE699" height="19"><strong><span style="color: #000000;">District Name</span></strong></td>
+<td align="center" valign="bottom" bgcolor="#FFE699"><strong><span style="color: #000000;">Number of Affected Buildings</span></strong></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Sharana</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">405</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Sar Hawza</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">45</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Spera</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">10,147</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Zurmat District</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">103</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Mandozayi</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">1,277</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Urgun</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">510</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Gardez District</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">24,766</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Tani</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">2,769</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Musakhel</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">1</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Shamal</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">196</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Surobi</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">4</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Gurbuz</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">107</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Ahmadabad</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">460</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Gayan</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">2,905</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Mata Khan</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">1</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Nika</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">67</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Ziruk</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">587</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Barmal</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">837</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Zadran</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">615</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Khost District</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">132</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Nadir Shah Kot</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">202</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">Tirazayi</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">2</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFFFFF" height="19"><span style="color: #000000;">No Information</span></td>
+<td align="right" valign="bottom" bgcolor="#FFFFFF"><em><span style="color: #000000;">662</span></em></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" bgcolor="#FFE699" height="19"><strong><span style="color: #000000;">Total</span></strong></td>
+<td align="right" valign="bottom" bgcolor="#FFE699"><strong><span style="color: #000000;">46,800</span></strong></td>
+</tr>
+</tbody>
+</table>
+ <br>
+<sup id="fn1">1. Affected: An exposure element (e.g. people, roads, buildings, land
+cover) that experiences a hazard (e.g. tsunami, flood, earthquake) and
+endures consequences (e.g. damage, evacuation, displacement, death)
+due to that hazard.<a href="#ref1">↩</a></sup> <br>
+<sup id="fn2">1. The impacts on roads, people, buildings and other exposure elements may be underestimated if the exposure data are incomplete<a href="#ref2">↩</a></sup>
+
+
+ <br>
+<b>Download:</b>

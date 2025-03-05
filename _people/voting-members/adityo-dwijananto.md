@@ -3,9 +3,8 @@ title: Adityo Dwijananto
 date: 2016-01-11 23:46:00 Z
 Photo: https://cdn.hotosm.org/website/HOT_ID_Staff_Adis.png
 Member Type:
-  Is Staff: true
+  Is Staff: false
   Is Voting Member: true
-Job Title: Open Data Specialist
 Working Group:
 - Activation
 Project:
@@ -18,7 +17,6 @@ Project:
 - LearnOSM
 - HOT Indonesia Curriculum
 Country: Indonesia
-Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Adityo
   Twitter: https://twitter.com/adisadit

@@ -1,6 +1,7 @@
 ---
 title: Publicaciones del Hub de Mapeo Abierto para LAC
 date: 2023-05-16 22:26:00 Z
+published: false
 tags:
 - Latam
 - caribe
@@ -10,7 +11,6 @@ Feature Image: https://cdn.hotosm.org/website/LAC_PublicationsHeader.png
 Impact Area:
 - Public Health
 - Gender Equality
-- Displacement & Safe Migration
 - Disasters & Climate Resilience
 - Sustainable Cities & Communities
 ---
@@ -18,6 +18,18 @@ Impact Area:
 ## Las publicaciones ([English](https://www.hotosm.org/projects/publications/), [Português](https://www.hotosm.org/projects/publicacoes/))
 
 Van de la más reciente a la más antigua.
+
+13/05/2024 - [Cartografía Comunitaria: Receptor de Bajo Costo en el Mapeo del Medio Solimões](https://www.hotosm.org/updates/cartografia-comunitaria-receptor-de-bajo-costo-en-el-mapeo-del-medio-solimoes/)
+
+25/03/2024 - [Coordinación y Acción: La Articulación de la Respuesta de Mapeo Humanitario tras el Huracán Otis](https://www.hotosm.org/updates/coordinacion-y-accion-la-articulacion-de-la-respuesta-de-mapeo-humanitario-tras-el-huracan-otis/)
+
+07/03/2024 - [Mapeando nuestra comunidad: el viaje de Paula dos Santos Silva en la Amazonía](https://www.hotosm.org/updates/mapeando-nuestra-comunidad-el-viaje-de-paula-dos-santos-silva-en-la-amazonia/)
+
+26/02/2024 - [Jóvenes Trazando Resiliencia en San Antonio de Prado, Colombia](https://www.hotosm.org/updates/jovenes-trazando-resiliencia-en-san-antonio-de-prado-colombia/)
+
+22/02/204 - [Soberanía de datos, mapeo abierto y territorios indígenas](https://www.hotosm.org/updates/soberania-de-datos-mapeo-abierto-territorios-indigenas/)
+
+12/02/2024 - [Mapeos Amazónicos para una Amazonía Inclusiva y Sostenible](https://www.hotosm.org/updates/mapeos-amazonicos-para-una-amazonia-inclusiva-y-sostenible/)
 
 15/12/2024 - [Datos para el desarrollo sostenible: El Festival de Datos 2023](https://www.hotosm.org/updates/festival-de-datos/)
 

@@ -1,13 +1,13 @@
 ---
 title: Sophie Mower
 date: 2020-04-17 22:17:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/Sophie+Mower_fullres.jpg
 Member Type:
   Is Staff: true
-Job Title: Senior Programs Manager - Strategic Engagement & Growth - Eastern and Southern
-  Africa Hub
+Job Title: Senior Programs Manager - Strategic Engagement & Growth
 Country: United Kingdom
-Team: Eastern and Southern Africa Hub
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/se_mower
 ---

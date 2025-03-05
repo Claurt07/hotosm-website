@@ -1,6 +1,7 @@
 ---
 title: Women-Centered Disaster Risk & Resilience in Small Island Developing States
 date: 2023-05-17 16:54:00 Z
+published: false
 Deadline Date: 2023-07-16 17:00:00 Z
 Page Contact:
   Contact Email: sids@hotosm.org
@@ -155,7 +156,7 @@ The Women-Centered Disaster Risk & Resilience in Small Island Developing States 
 <br>
 # III. PROGRAM TIMELINE
 <br>
-![image.png](/uploads/image.png)
+![image.png](https://cdn.hotosm.org/website/image.png)
 
 The proposal should start its activities on August 15th, 2023. The work plan and timeline distribution will depend on the activities proposed, but all activities and final deliverables should aim to be finalized by November 30th, 2023.
 

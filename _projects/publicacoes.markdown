@@ -1,6 +1,7 @@
 ---
 title: Publicações do Centro de Mapeamento Aberto da LAC
 date: 2023-05-16 22:29:00 Z
+published: false
 tags:
 - latam
 - caribe
@@ -9,7 +10,6 @@ Feature Image: https://cdn.hotosm.org/website/LAC_PublicationsHeader.png
 Impact Area:
 - Public Health
 - Gender Equality
-- Displacement & Safe Migration
 - Disasters & Climate Resilience
 - Sustainable Cities & Communities
 ---
@@ -17,6 +17,8 @@ Impact Area:
 ## As publicações ([Español](https://www.hotosm.org/projects/publicaciones/), [English](https://www.hotosm.org/projects/publications/))
 
 Eles vão do mais recente para o mais antigo.
+
+13/05/2024 - [Cartografia Comunitária: Receptor de baixo custo no mapeamento do Médio Solimões](https://www.hotosm.org/updates/cartografia-comunitaria-receptor-de-baixo-custo-no-mapeamento-do-medio-solimoes/)
 
 29/11/2023 - [Canoa de Tolda no Fórum de Paz de Paris 2023](https://www.hotosm.org/updates/canoa-de-tolda-no-forum-de-paz-de-paris-2023/)
 

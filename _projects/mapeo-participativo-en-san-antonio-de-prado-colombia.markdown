@@ -8,7 +8,7 @@ Project Summary Text: HOT colaboró con el Departamento Administrativo de Gesti�
   el Departamento de Gestión del Riesgo. El proyecto tuvo como objetivo fortalecer
   la comunidad a través de mapeo abierto y vuelos con drones, proporcionando información
   geoespacial actualizada para respaldar la gestión del riesgo de desastres.
-Feature Image: "/uploads/SajoR.jpg"
+Feature Image: https://cdn.hotosm.org/website/SajoR.jpg
 Country:
 - Colombia
 Impact Area:
@@ -46,7 +46,7 @@ DAGRD identificó una brecha crítica de datos y capacidades dentro del marco de
 
 Esta vulnerabilidad amenaza directamente la seguridad y el bienestar de los residentes locales. La falta de datos geoespaciales precisos y actualizados agrava los riesgos, obstaculizando la implementación de intervenciones oportunas y específicas. El proyecto buscó superar estos obstáculos empoderando a la comunidad a través del mapeo participativo, elevando la precisión de los datos y fomentando la colaboración entre las partes interesadas locales. Su objetivo principal fue mitigar el impacto de los deslizamientos de tierra en la vida de las personas y fortalecer la resiliencia ante las adversidades naturales.
 
-![San Antonio de Prado - Mapeo HOT 1.jpg](/uploads/San%20Antonio%20de%20Prado%20-%20Mapeo%20HOT%201.jpg)
+![San Antonio de Prado - Mapeo HOT 1.jpg](https://cdn.hotosm.org/website/San+Antonio+de+Prado+-+Mapeo+HOT+1.jpg)
 *Foto: San Antonio de Prado, Medellín, Colombia*
 
 ## **ENFOQUE**
@@ -61,7 +61,7 @@ Las iniciativas de fortalecimiento de capacidades fueron integrales para el proy
 
 El proyecto fomentó colaboraciones con organizaciones locales, como [YouthMappers](https://www.youthmappers.org/post/algunos-proyectos-de-youthmappers-comunidad-latam), [Ecociclo](https://ecociclo.com.co/) y [DAGRD](https://www.medellin.gov.co/es/dagrd/), aprovechando su experiencia y redes comunitarias. Este esfuerzo conjunto garantizó que los datos generados y las herramientas desarrolladas no solo fueran precisos, sino también integrados en el contexto local, fortaleciendo la resiliencia de la comunidad ante las amenazas de deslizamientos de tierra."
 
-![Tasking Manager - San Antonio de Prado.jpg](/uploads/Tasking%20Manager%20-%20San%20Antonio%20de%20Prado.jpg)
+![Tasking Manager - San Antonio de Prado.jpg](https://cdn.hotosm.org/website/Tasking+Manager+-+San+Antonio+de+Prado.jpg)
 *Foto: Reunión con miembros activos para mapear con la Ortofoto en JOSM.*
 
 ## **RESULTADO E IMPACTO**
@@ -82,3 +82,6 @@ El proyecto reconoce su naturaleza piloto y enfatiza el compromiso continuo requ
 
 ## **COLABORADORES**
 Las colaboraciones con DAGRD, YouthMappers - Capítulo de Universidad de Antioquia, y Ecociclo jugaron roles fundamentales. La participación de DAGRD aseguró la alineación con los esfuerzos locales de gestión del riesgo, mientras que YouthMappers contribuyó con experiencia de mapeo esencial. La colaboración de Ecociclo extendió el impacto del proyecto a la Vereda El Salado.
+
+## **RECURSOS**
+[**Blog GeoLab:**](https://mapeoparticipativosap.blogspot.com/) En este blog, se presenta una descripción detallada de las fases y herramientas empleadas en el mapeo comunitario llevado a cabo por la comunidad estudiantil voluntaria del proyecto. Reconocemos a Yéssica de los Ríos Olarte, Juan Sebastián Agudelo, Sara Berrio, Paulina Rendón Jaramillo, Daniela Romero Castaño, y Ana Carolina Restrepo, así como el Voluntariado Ambiental Prevención y Emergencias San Antonio de Prado,  por su valioso trabajo durante este proceso.

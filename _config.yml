@@ -61,6 +61,10 @@ collections:
     title: Press Releases
     output: true
     permalink: press-releases/:path/
+  product-pages:
+    title: Product Pages
+    output: true
+    permalink: "/tech-suite/:path/"
   programs:
     title: Programs
     output: true
@@ -181,6 +185,12 @@ defaults:
   values:
     permalink: "/impact-areas/:path/"
     layout: impact-area-item
+- scope:
+    path: ''
+    type: product-pages
+  values:
+    permalink: "/tech-suite/:path/"
+    layout: product-pages
 - scope:
     path: ''
     type: docs

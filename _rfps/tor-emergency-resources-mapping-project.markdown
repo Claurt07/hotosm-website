@@ -1,10 +1,10 @@
 ---
 title: 'Call for Proposals: Emergency Resources Mapping Project'
 date: 2024-03-12 19:16:00 Z
-Deadline Date: 2024-03-31 00:00:00 Z
-Apply Form Link: https://drive.google.com/file/d/1aDf_uKZZABgnSfEafNgfFXVCQzNDJiNt/view?usp=sharing
+Deadline Date: 2024-04-08 23:59:00 Z
+Apply Form Link: https://drive.google.com/file/d/1LC16MMyulYGar0ZRWskRsUx8Lw48rBOW/view?usp=drive_link
 Page Contact:
-  Contact Email: caribbean@hotosm.org
+  Contact Email: hublac@hotosm.org
   Label: Submission Email
 ---
 
@@ -31,7 +31,7 @@ The primary outcome of this project is to develop a comprehensive map/database o
 The terms of reference are available **[here](https://drive.google.com/file/d/1aDf_uKZZABgnSfEafNgfFXVCQzNDJiNt/view)**.
 
 ## TO APPLY
-1. Send your CV, technical proposal (max. 10 pages) and financial proposal (max. 2 pages) to: caribbean@hotosm.org
+1. Send your CV, technical proposal (max. 10 pages) and financial proposal (max. 2 pages) to: [hublac@hotosm.org](mailto:hublac@hotosm.org)
 
 2. Technical proposal should be submitted in the following format:
 * Section A. Background: Briefly describe the background and organization of yourself/ firm/organization and any sub-consultants that your organization proposes to engage for this assignment. 
@@ -46,4 +46,4 @@ The terms of reference are available **[here](https://drive.google.com/file/d/1a
 * Annex 3: Budget (should not exceed USD 15,000$). 
 * The financial proposal should not exceed USD 15,000
 
-Applications should be submitted by March 31st to the email address: caribbean@hotosm.org
+Applications should be submitted by March 31st to the email address: hublac@hotosm.org

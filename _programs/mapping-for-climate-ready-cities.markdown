@@ -3,28 +3,47 @@ title: Mapping for Climate-Ready Cities
 date: 2018-05-01 05:01:00 Z
 permalink: "/programs/mapping-for-climate-ready-cities"
 position: 88
-Feature Image: https://cdn.hotosm.org/website/Ramani+Huria+Dar+es+Salaam+v3.jpg
+Feature Image: "/uploads/Ramani-Huria-Dar-es-Salaam-v3-2.jpg"
+Stats:
+  stat1: 10M
+  text1: People to be Mapped
+  hover1: Expected outcome of an area home to 10 million people mapped using <a href='https://tasks.hotosm.org/'
+    target='_blank'>HOT Tasking Manager</a>
+  stat2: '1,000'
+  text2: local mappers to be trained
+  hover2: With a focus on participatory mapping
+  stat3: '20'
+  text3: Local Orgs to engage
+  hover3: Connecting local organizations with local stakeholders and governments
+  stat4: 25K
+  text4: Datasets to be Downloaded
+  hover4: A goal per year that will allow to determine the interest on the data produced.
 Country:
 - Bangladesh
 - Nepal
 - Ethiopia
-- Democratic Republic of Congo
 - Nigeria
 - Ivory Coast
-- South America
 - Kenya
 - Democratic Republic of the Congo
 - Sierra Leone
 - Liberia
+- Brazil
+- Mexico
+- Chile
+- Ecuador
 Impact Area:
 - Sustainable Cities & Communities
 Partner:
 - UN-Habitat
 - Start Network
 - Save the Children UK
+- Open Government Partnership (OGP)
 Duration:
   Start Date: 2024-01-01 00:00:00 Z
   End Date: 2025-12-31 00:00:00 Z
+  Timeframe: 2024 - 2025 Cycle
+Feature-Image: "/uploads/Ramani-Huria-Dar-es-Salaam-v3.jpg"
 Event Promo:
   Event Name: Mapping For Climate-Ready Cities
   Description: "<a style='color: white; font-weight: bold;'>Climate crises are inherently
@@ -43,10 +62,11 @@ Block 2:
     high vulnerability areas where data is scarce, putting an area home to millions
     of people onto the world map in OpenStreetMap.
   Image: https://cdn.hotosm.org/website/Congestion+at+the+Water+PumpSmall.jpg
-  Figcaption: Crowdsourcing Non-Camp Refugee Services - March 2018
+  Figcaption: Crowdsourcing Non-Camp Refugee Services Data - March 2018
   Project:
   - Mapping for Climate Ready Cities - Latin America
-  - Mapping for Climate Ready Cities - West and Northern Africa
+  - Mapping for Climate Ready Cities - Liberia and Sierra Leone
+  - Mapping for Climate Ready Cities - Nigeria and Ivory Coast
   - Mapping for Climate Ready Cities - East and Southern Africa
   - Mapping for Climate Ready Cities - Dhaka
   - Mapping for Climate Ready Cities - Jumla
@@ -62,10 +82,10 @@ Figcaption: Through our <strong>Mapping for Climate-Ready Cities program</strong
   in densely populated urban areas.
 Narrative-section:
   Narrative-title: Map Data for Anticipatory Action
-  Narrative-intro-text: <a>Anticipatory action serves as a crucial link between long-term
+  Narrative-intro-text: Anticipatory action serves as a crucial link between long-term
     disaster risk reduction and immediate humanitarian response, particularly amidst
-    the compounded threats of climate change and disasters.</a> <a href="https://www.fao.org/documents/card/en/c/cb7145en">According
-    to the Food and Agriculture Organization (FAO)<a>, every dollar invested in anticipatory
+    the compounded threats of climate change and disasters. <a href="https://www.fao.org/documents/card/en/c/cb7145en">According
+    to the Food and Agriculture Organization (FAO)</a>, every dollar invested in anticipatory
     action could give families seven dollars in benefits and avoid losses. However,
     **anticipatory action efforts in vulnerable areas are hindered by a lack of data.**
   Narrative-text: "**HOT’s Mapping for Climate-Ready Cities program** will make open
@@ -81,17 +101,20 @@ Quote: This Program provides open map data in high-risk areas before disaster st
   events.
 Project-objectives:
   Title: Proposed Program Goals & Objectives
-  Objective1-highlight: 8-10 major cities
-  Objectives-title-1: 'across 4 regions by 2025, with a focus on the most vulnerable
+  Objective1-highlight: Map 8-10 major cities
+  Objectives-title-1: 'across 4 regions by 2025 with a focus on the most vulnerable
     populations in those locations. '
-  Objective1: MAP
+  Icon1: fa-regular fa-map
+  Objective1: " Map"
+  Icon2: fa-solid fa-chart-line
   Objective2-highlight: Increase analytical capacity of stakeholders
   Objectives-title-2: to collect, analyze & use map data to advocate for climate-resilient
     policy and planning decisions.
   Objective2: " DATA USE"
+  Icon3: fa-solid fa-users-line
   Objective3-highlight: Collaborate with local representatives
   Objectives-title-3: to embed open climate data into existing workflows to create
-    data-informed policies and climate-action plans.
+    data-informed policies & climate-action plans.
   Objective3: " INTEGRATION"
 Approach-text: For 13 years, HOT has worked in collaboration with local communities
   to put the places they live on the world map. Our global community of 600K+ volunteers
@@ -102,8 +125,12 @@ Approach-text: For 13 years, HOT has worked in collaboration with local communit
   Community knowledge, needs, and solutions are at the center, with HOT facilitating
   the end-to-end process of identifying missing data, mapping, analyzing data, and
   using that data effectively.
+Approach-image: https://cdn.hotosm.org/website/hubs-map-dots.png
 Project-text:
-  Project Summary Text: At Humanitarian OpenStreetMap Team (HOT), we are addressing climate data gaps by working with local communities and partners to take anticipatory action. We ensure their realities are represented on the map and that communities are involved in climate-related decisions that will affect them.
+  Project Summary Text: At Humanitarian OpenStreetMap Team (HOT), we are addressing
+    climate data gaps by working with local communities and partners to take anticipatory
+    action. We ensure their realities are represented on the map and that communities
+    are involved in climate-related decisions that will affect them.
   Introduction: 
   Methodology-title: HOT’s Approach
   Methodology: For 13 years, HOT has worked in collaboration with local communities
@@ -116,8 +143,20 @@ Project-text:
     the end-to-end process of identifying missing data, mapping, analyzing data, and
     using that data effectively.
   Narrative-title: Map Data for Anticipatory Action
-  Narrative-introduction: 'Anticipatory action serves as a crucial link between long-term disaster risk reduction and immediate humanitarian response, particularly amidst the compounded threats of climate change and disasters. <a href="https://www.fao.org/documents/card/en/c/cb7145en">According to the Food and Agriculture Organization (FAO)</a>, every dollar invested in anticipatory action could give families seven dollars in benefits and avoid losses. However, anticipatory action efforts in vulnerable areas are hindered by a lack of data.'
-  Narrative: HOT’s Mapping for Climate-Ready Cities program will make open map data available in high-risk cities before a disaster strikes so that it can be used to plan for and mitigate the impacts of extreme weather and climate events. The proactive approach of this program will enable enhanced coordination and community involvement, facilitating early determination of response strategies and providers with ample time for training and capacity building. By leveraging map data to take preemptive measures, this program will mitigate potential crises, thereby saving resources and time and averting displacement, disease, and livelihood losses.
+  Narrative-introduction: Anticipatory action serves as a crucial link between long-term
+    disaster risk reduction and immediate humanitarian response, particularly amidst
+    the compounded threats of climate change and disasters. <a href="https://www.fao.org/documents/card/en/c/cb7145en">According
+    to the Food and Agriculture Organization (FAO)</a>, every dollar invested in anticipatory
+    action could give families seven dollars in benefits and avoid losses. However,
+    anticipatory action efforts in vulnerable areas are hindered by a lack of data.
+  Narrative: HOT’s Mapping for Climate-Ready Cities program will make open map data
+    available in high-risk cities before a disaster strikes so that it can be used
+    to plan for and mitigate the impacts of extreme weather and climate events. The
+    proactive approach of this program will enable enhanced coordination and community
+    involvement, facilitating early determination of response strategies and providers
+    with ample time for training and capacity building. By leveraging map data to
+    take preemptive measures, this program will mitigate potential crises, thereby
+    saving resources and time and averting displacement, disease, and livelihood losses.
   Objectives-title-1: 'Map 8-10 major cities across 4 regions by 2025 with a focus
     on the most vulnerable populations in those locations. '
   Objective1: 'Complete an open map of critical infrastructure and environmental systems,
@@ -142,29 +181,7 @@ Project-text:
     develop solutions. More, better and up-to-date data means that locals, advocates
     and decision-makers can make more rapid and better decisions.</li></ul>"
   Outcomes: 
-Feature Image: https://cdn.hotosm.org/website/Ramani+Huria+Dar+es+Salaam+v3.jpg
-Country:
-- Bangladesh
-- Nepal
-- Ethiopia
-- Democratic Republic of Congo
-- Nigeria
-- Ivory Coast
-- South America
-- Kenya
-- Democratic Republic of Congo
-- Sierra Leone
-- Liberia
-Impact Area:
-- Sustainable Cities & Communities
-project_extent: ''
-Partner:
-- UN-Habitat
-- Start Network
-- Save the Children UK
-Duration:
-  Start Date: 2024-01-01 00:00:00 Z
-  End Date: 2025-12-31 00:00:00 Z
+project_extent: 
 Project-1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
@@ -187,41 +204,5 @@ Project-3:
   Image: https://cdn.hotosm.org/website/HOT+Data+Entry+specialists+handed+over+framed,+printed+maps+back+to+the+village+offices.+HOT+IndonesiaRiyadi+Wibowo+cropped.jpeg
   Call to Action: Become a partner
   URL: "/projects/dar_ramani_huria_dar_open_map"
-Event Promo:
-  Event Name: Mapping For Climate-Ready Cities
-  Description: "<a style='color: white; font-weight: bold;'>Climate crises are inherently geographic. Yet many of the places where people are most vulnerable to climate change lack representation on maps, meaning communities and decision-makers do not have reliable data to address the converging crises they face.</a>"
-  Related Projects:
-  - 'Infectious diseases: Malaria elimination'
-  - Missing Maps
-  Image: https://cdn.hotosm.org/website/Ramani+Huria+Dar+es+Salaam+v3.jpg
-  URL: "/projects/opensummit23-24/"
-  Button: Learn More
-Block 2:
-  Header: Mapping areas vulnerable to disaster
-  Text: Through the Missing Maps project, the HOT global community creates maps of
-    high vulnerability areas where data is scarce, putting an area home to millions
-    of people onto the world map in OpenStreetMap.
-  Image: https://cdn.hotosm.org/website/Congestion+at+the+Water+PumpSmall.jpg
-  Figcaption: "Crowdsourcing Non-Camp Refugee Services Data - March 2018"
-  Project:
-  - 'Mapping for Climate Ready Cities - Latin America'
-  - 'Mapping for Climate Ready Cities - West and Northern Africa'
-  - 'Mapping for Climate Ready Cities - East and Southern Africa'
-  - 'Mapping for Climate Ready Cities - Dhaka'
-  - 'Mapping for Climate Ready Cities - Jumla'
-Project-objectives:
-  Title: Proposed Program Goals & Objectives
-  Objective1-highlight: Map 8-10 major cities
-  Objectives-title-1: 'across 4 regions by 2025 with a focus on the most vulnerable
-    populations in those locations. '
-  Objective1: " Map"
-  Objective2-highlight: Increase analytical capacity of stakeholders
-  Objectives-title-2: to collect, analyze & use map data to advocate for climate-resilient
-    policy and planning decisions.
-  Objective2: " DATA USE"
-  Objective3-highlight: Collaborate with local representatives
-  Objectives-title-3: to embed open climate data into existing workflows to create
-    data-informed policies & climate-action plans.
-  Objective3: " ITEGRATION"
-Quote: This Program provides open map data in high-risk areas before disaster strikes to bolster preparedness and mitigation efforts against extreme weather and climate events.
 ---
+

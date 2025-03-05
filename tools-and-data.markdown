@@ -2,80 +2,58 @@
 title: Tools & Data
 date: 2018-02-06 15:16:00 Z
 position: 4
-Block 1:
-  Header: Open Source
-  Text: Open source is at the heart of the HOT Community. We create and build open
-    source tools and run our projects with an open source ethos. If you are interested
-    in using our tools or contributing, you can access all our code, documentation,
-    and other resources on GitHub.
-  Image: https://cdn.hotosm.org/website/open-source.png
+Block 0:
+  Header: What is Open Mapping
+  Text: Open mapping is a global movement to create free and open geographic data,
+    grounded in open source principles and data protection. Humanitarian OpenStreetMap
+    Team serves as a platform that fosters community building, collaboration and development
+    of resources to contribute to the movement. A core part of the movement is <strong>OpenStreetMap
+    (OSM)</strong>, an independent and crowdsourced project to map the world driven
+    by a growing community of mappers. <br> <br> There are many open source tools
+    available to use in your end to end mapping workflows, and resources to use OSM
+    and other open data to better share and utilize data for better decisions. HOT
+    contributes to the open source mapping community as part of HOT’s product suite.
+    If you are interested in contributing or repurposing our tools, you can access
+    all our code, documentation, and other resources on GitHub.
+  Image: https://cdn.hotosm.org/website/HOT+Staff.jpeg
   Tools:
-  - Name: Access our repositories
+  - Name: GitHub Repo
     URL: https://github.com/hotosm
-Block 2:
-  Header: Learn about OpenStreetMap
-  Text: OpenStreetMap is a free street level map of the world, created by an ever
-    growing community of mappers. Get started by learning about how to edit OpenStreetMap
-    or using the many tools available to edit or use OSM data. Check out the resources
-    available within LearnOSM or the HOT Training Center. The OSM Wiki has documentation
-    around feature tags and processes of the community.
-  Image: https://cdn.hotosm.org/website/tools-learnosm.png
+  - Name: Data Principles
+    URL: "/tools-and-data/data-principles/"
+Block 1:
+  Header: Open Data Solutions
+  Text: Open source tools are available to support mapping workflows from data management
+    design and collection to analysis and visualization. We have compiled a list of
+    tools for use at every stage of open mapping, including tools to better utilize
+    OpenStreetMap and other open data sources into your data workflows.
+  Image: https://cdn.hotosm.org/website/52100358553_94c50062d2_k.jpg
   Tools:
+  - Name: Learn More
+    URL: "/open-data-solutions"
+Block 2:
+  Header: HOT TECH PRODUCT SUITE
+  Text: HOT develops open source solutions to enable everyone to create and use open
+    mapping data, focusing on how we can lower the barrier to entry for everyone to
+    do so. HOT works in collaboration with volunteers and other supporters that also
+    value free and open software and data.
+  Image: https://cdn.hotosm.org/website/GAL+Group+for+Mapping+Tips+Post.jpg
+  Tools:
+  - Name: Explore the tools
+    URL: https://github.com/hotosm
+Block 3:
+  Header: Resources and Learning Center
+  Text: New to open mapping  or wondering how to incorporate more open data into your
+    workflows? Our resources and trainings are your starting points to learn more
+    about open mapping movement and OpenStreetMap.
+  Image: https://cdn.hotosm.org/website/IMG-20230121-WA0005.jpg
+  Tools:
+  - Name: HOT Toolbox
+    URL: https://toolbox.hotosm.org/pages/introduction/how_to_use_toolbox/
   - Name: LearnOSM
     URL: https://learnosm.org
-  - Name: OpenStreetMap
-    URL: https://openstreetmap.org
-  - Name: OSM Wiki
-    URL: https://wiki.openstreetmap.org
-Block 3:
-  Header: Plan a Mapping Campaign
-  Text: If you are interested in starting a remote or field mapping campaign, you
-    can get started by finding available imagery to use via OpenAerialMap, plan a
-    remote mapping campaign via the Tasking Manager.
-  Image: https://cdn.hotosm.org/website/tm4-explore.png
-  Tools:
-  - Name: OpenAerialMap
-    URL: https://openaerialmap.org/
-  - Name: Tasking Manager
-    URL: https://tasks.hotosm.org/
-  - Name: Field Mapping Tasking Manager
-    URL: https://fmtm.hotosm.org/
-Block 4:
-  Header: Edit the Map
-  Text: Quickly get started with editing and contibuting to OpenStreetMap via the
-    Tasking Manager. You can volunteer your time to active mapping projects and support
-    organizations in need of map data around the world. Check RapiD, an editor that
-    uses Artificial Inteligence to detect unmapped roads and buildings.
-  Image: "/downloads/rapid-ai-roads.png"
-  Tools:
-  - Name: Tasking Manager
-    URL: https://tasks.hotosm.org/
-  - Name: fAIr
-    URL: https://fair-dev.hotosm.org/
-  - Name: RapiD
-    URL: https://mapwith.ai/rapid
-Block 5:
-  Header: Access OSM Data
-  Text: To access OSM data, HOT built the Export Tool which allows anyone to create
-    custom extracts of OSM based on the area and type of data you want to access.
-    Export Tool allows you to save, rerun, and share OSM data. Exports for selected
-    countries with active disaster or crisis responses are also available via HDX.
-  Image: https://cdn.hotosm.org/website/tools-export.png
-  Tools:
-  - Name: Export Tool
-    URL: https://export.hotosm.org/en/v3/
-  - Name: Humanitarian Data Exchange (HDX)
-    URL: https://data.humdata.org/organization/hot
-Block 6:
-  Header: Analyze the Data
-  Text: To understand more about how and when editing took place, or assess quality
-    within OSM, use the OSM Analytics suite of tools. You can view how data has changed
-    over time within OSM, understand quality within an area, or analyze what type
-    of data is available.
-  Image: https://cdn.hotosm.org/website/tools-osm-analytics.png
-  Tools:
-  - Name: OSM Analytics
-    URL: https://osm-analytics.org/
+  - Name: Humanitarian Use of OSM Data
+    URL: https://hot.learnworlds.com/course/humanitarian-use-osm
 layout: tools-and-data
 ---
 
